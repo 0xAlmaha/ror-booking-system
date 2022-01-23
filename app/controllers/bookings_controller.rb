@@ -14,7 +14,7 @@ class BookingsController < ApplicationController
   def new
     @booking = Booking.new
   end
-
+# testing the edit feature -- 
   # GET /bookings/1/edit
   def edit
   end
